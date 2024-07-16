@@ -2,5 +2,8 @@ node_modules/
 certificates/
 GAEcertificates/
 testingdata/
+testingpdf/
 participants.json
-p.csv
+*.csv
+*.pdf
+*.zip
