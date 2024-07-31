@@ -9,7 +9,7 @@ const Jimp = require("jimp");
 const title = faker.lorem.sentence(3);
 
 
-const fakeData = Array.from({ length: 20 }, () => ({
+const fakeData = Array.from({ length: 5 }, () => ({
   ownerName: faker.person.fullName(),
   phoneNumber: faker.phone.phoneNumber,
   domicile: faker.location.streetAddress(),
